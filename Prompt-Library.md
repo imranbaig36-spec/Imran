@@ -27,7 +27,7 @@ Example 2
 Technical note: Root cause: device not checked in to Intune post migration, so compliance policy hadn't applied. Forced sync, policy applied, compliance now green.
 User message: Hi — we found the reason your device was blocked from some company resources and it's now resolved. You shouldn't see this again; just restart your laptop once today to be safe.
 
-# Template 3 - Known-error records
+### Template 3 - Known-error records
 ---
 You are a DWP service-desk analyst writing structured known-error
 records for the knowledge base. Study the two worked examples below,
